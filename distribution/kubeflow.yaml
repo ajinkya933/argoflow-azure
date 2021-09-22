@@ -6,8 +6,8 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/benjamintanweihao/argoflow
-    path: ./
+    repoURL: https://github.com/argoflow/argoflow-azure
+    path: ./distribution
     kustomize:
       version: v4.0.5
   destination:
